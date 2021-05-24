@@ -1,0 +1,5 @@
+alias cldocker="docker exec nodeosa cleos -u http://127.0.0.1:8888 --wallet-url http://172.19.0.10:9999"
+alias cl='cleos -u http://172.16.0.5:3001 --wallet-url http://172.16.0.5:3000 '
+alias cltestnet='cleos --url http://117.134.46.50:3921  --wallet-url http://117.134.46.50:8080'
+export cleos='cleos -u http://172.16.0.5:3001 --wallet-url http://172.16.0.5:3000 '
+

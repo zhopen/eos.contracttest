@@ -1,0 +1,1 @@
+cl system newaccount eosio consumer EOS5nh468tRDAt3XDcHeihsyy5E5L9Mwxr3tsbHtr7ruz9CtR4HGS EOS5nh468tRDAt3XDcHeihsyy5E5L9Mwxr3tsbHtr7ruz9CtR4HGS --stake-cpu "10000 SYS" --stake-net "10000 SYS" --buy-ram-kbytes 100000
